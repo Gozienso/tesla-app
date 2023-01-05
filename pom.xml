@@ -95,14 +95,14 @@
 		
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.53.227.31:8191/landmark/repository/tesla-fe-releases/</url> 
+	      <name>Supergodswill Technologies Releases Nexus Repository</name>
+	      <url>http://3.21.114.188:8081/supergodswill/repository/tesla_app_release/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.53.227.31:8191/landmark/repository/tesla-fe-snapshots/</url>
+	      <name>Supergodswill Technologies Snapshot Nexus Repository </name>
+	      <url>http://3.21.114.188:8081/supergodswill/repository/tesla_app_snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
