@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla_wfapp</finalName>
+		<finalName>tesla_zapp</finalName>
 		
 		<plugins>
 			<plugin>
