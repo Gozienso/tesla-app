@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla_app-store</finalName>
+		<finalName>tesla_wfapp</finalName>
 		
 		<plugins>
 			<plugin>
